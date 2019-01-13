@@ -388,9 +388,6 @@
 }
  .snappdStoryOverlay-StoryHolder .snappdHighlightWidget_video{
      z-index:9999111;
-  
-    border-radius: 5px;
-    overflow: hidden;
 }
  .snappdStoryOverlay-StoryHolder{
      z-index: 9999999999999999;
