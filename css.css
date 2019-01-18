@@ -355,6 +355,9 @@
      animation: snappd-swipeup-bounce 2s infinite;
 }
 /*New Playback*/
+.snappdStoryOverlay-StoryHolder .snappdPlayerSwipeUpLink svg {
+	bottom: -14px!important;
+}
  .snappdWidget-timeline-holder{
      padding-top: 5px;
      height: 50px;
