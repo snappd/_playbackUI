@@ -118,6 +118,7 @@
      width: 360px;
      min-height: 640px;
      object-fit: cover;
+     margin:0;
 }
 .snappdPlayOverlay{
      z-index: 9999999999999999;
