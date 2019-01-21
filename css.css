@@ -356,9 +356,6 @@
      animation: snappd-swipeup-bounce 2s infinite;
 }
 /*New Playback*/
-.snappdStoryOverlay-StoryHolder .snappdPlayerSwipeUpLink svg {
-	bottom: -14px!important;
-}
  .snappdWidget-timeline-holder{
      padding-top: 5px;
      height: 50px;
@@ -422,6 +419,12 @@
  .snappdStoryOverlay-StoryHolder .snappdWidget-closePlayer{
      display:none;
      z-index:9999999999999;
+}
+.snappdStoryOverlay-StoryHolder .snappdPlayerSwipeUpLink svg {
+	bottom: -14px!important;
+}
+.snappdStoryOverlay-StoryHolder .snappdPlayOverlay {
+	position: initial;
 }
  @media screen and (max-width: 450px){
      .snappdTimelineFrameHolder{
