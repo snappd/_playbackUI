@@ -389,6 +389,7 @@
 }
  .snappdStoryOverlay-StoryHolder .snappdHighlightWidget_video{
      z-index:9999111;
+    position: initial;
 }
  .snappdStoryOverlay-StoryHolder{
      z-index: 9999999999999999;
