@@ -379,6 +379,12 @@
     /*background:red;
     */
 }
+
+.snappdStoryOverlay-StoryHolder .snappdHighlightWidget_video video.video_player {
+    display: block;
+}
+ 
+
  .snappd-move-clip-position {
      display: flex;
      position: absolute;
